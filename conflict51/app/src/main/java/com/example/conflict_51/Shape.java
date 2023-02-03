@@ -3,6 +3,8 @@ package com.example.conflict_51;
 public abstract class Shape {
     protected int x;
     protected int y;
+
+    protected String color = "red";
     public Shape() {
 
     }
