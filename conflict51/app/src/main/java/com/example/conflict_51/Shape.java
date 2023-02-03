@@ -12,9 +12,3 @@ public abstract class Shape {
         this.y = y;
     }
 }
-
-public class Triangle extends Shape {
-    public Triangle(){
-        super();
-    }
-}
